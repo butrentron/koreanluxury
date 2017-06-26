@@ -1,0 +1,1 @@
+Hệ thống không thể gửi tin sms đến số ĐT của bạn vì số dư không đủ. Hãy tiếp tục nạp số dư vào tài khoản để nhận được tin nhắn.
